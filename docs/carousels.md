@@ -22,3 +22,7 @@ Security lens for relevant controller/agent/device research: each controller may
 
 
 For PDF packaging run scripts/build_carousel.py and scripts/verify_carousel.py against an explicit manifest. These verify files and pixels, not semantics or visible spelling. Raster PDF text is not a tagged accessible document; retain slide copy and alt descriptions.
+
+## Required design lock
+
+Read [ImageGen consistency](../skills/linkedin-ai-news-carousel/references/imagegen-consistency.md) before rendering. Use [the design-lock example](../examples/design-lock.json); choose its values per story. Exact role sizes stay fixed throughout the deck, including the cover. Approve one master slide, reference it for all others and record side-by-side visual QA.

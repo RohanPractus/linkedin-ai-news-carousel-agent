@@ -1,0 +1,78 @@
+{
+  "template_id": "example-research-editorial",
+  "status": "example-select-per-story",
+  "canvas": {
+    "target_width": 1080,
+    "target_height": 1350,
+    "aspect_ratio": "4:5",
+    "margin": 80
+  },
+  "typography": {
+    "family": "Inter",
+    "headline": {
+      "size": 72,
+      "weight": 800,
+      "line_height": 1.08,
+      "align": "left"
+    },
+    "body": {
+      "size": 36,
+      "weight": 400,
+      "line_height": 1.3,
+      "align": "left"
+    },
+    "footer": {
+      "size": 24,
+      "weight": 500,
+      "line_height": 1.2,
+      "align": "left"
+    },
+    "number": {
+      "size": 24,
+      "weight": 600,
+      "line_height": 1.2,
+      "align": "right"
+    }
+  },
+  "palette": {
+    "background": "#F5F2EA",
+    "text": "#172023",
+    "accent": "#166B63"
+  },
+  "layout": {
+    "headline_box": [
+      80,
+      110,
+      920,
+      270
+    ],
+    "body_box": [
+      80,
+      420,
+      920,
+      300
+    ],
+    "illustration_box": [
+      80,
+      780,
+      920,
+      360
+    ],
+    "footer_origin": [
+      80,
+      1230
+    ],
+    "number_origin": [
+      1000,
+      1230
+    ]
+  },
+  "illustration_style": "restrained editorial scientific illustration",
+  "invariants": [
+    "same font and sizes per role on every slide",
+    "same palette and margins",
+    "same footer and numbering positions",
+    "shorten copy rather than shrink type"
+  ],
+  "note": "Illustrative visual targets, not verified raster font measurements. Select a new lock per story and freeze within each post."
+}

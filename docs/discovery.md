@@ -13,3 +13,13 @@ python scripts/check_freshness.py runtime/run/event.json --now 2026-10-12T10:00:
 ```
 
 The `--now` flag is for reproducible tests; production defaults to actual UTC now. It does not grant permission to falsify freshness. The helper trusts input facts and URLs; the agent must verify them independently.
+
+## Discovery quality and novelty review
+
+At execution time, search at least two accessible lead surfaces where possible and original release channels. Use date-bounded queries for the actual preceding 96 hours, then open each selected primary source; search snippets and a fresh discussion timestamp are insufficient. Record inaccessible sources instead of claiming coverage. Target three candidate events when available; fewer is acceptable if documented, and no eligible event means skip.
+
+For each candidate save: original event timestamp and precision, first announcement/release URL, release/version identifier, discussion URL/time, concrete before→after change, availability, affected AI audience, caveats, corrections checked_at, and rejected/selected reason. Deduplicate by event/version against the ledger, not headline phrasing. A follow-up to an older release qualifies only if it contains its own substantive new dated change.
+
+Select on verified novelty, practical impact and explainability. Votes and comments are leads, never factual verification. Seek independent technical corroboration where accessible; if only the vendor establishes the claim, label it explicitly and narrow the claim. Keep research results separate from production availability and adoption. Save a claim-to-source map for every number, benchmark and capability mentioned in the caption or images.
+
+After humanization compare names, dates, numbers, qualifiers and source attribution against that map. After image generation, rerun the hard 96-hour freshness gate and check the original source for corrections. If the event expires or a material claim fails, do not publish the prepared asset. Reuse neither a stale headline nor a cached draft to fill a schedule slot.

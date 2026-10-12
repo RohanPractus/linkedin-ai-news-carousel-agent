@@ -78,3 +78,9 @@ Keep tokens, OAuth state, private voice samples, runtime ledgers and account-spe
 MIT licensed original code/instructions. Referenced third-party skills are credited and not vendored. Image examples are demonstration assets, not an Anthropic endorsement. No reach guarantee or AI-detector certification is offered.
 
 Latest media policy: choose a theme-specific template each run; use either a 5–7-page PDF or 3–5 images, selected by story suitability and format history. Images can display as a grid. Verify manifest/visible numbering and attachment order. Read docs/carousels.md for adaptive templates, relevant mentions/hashtags, comment-review boundaries and controller-security research lens.
+
+## Consistent slides, fresh designs
+
+Each post now uses a frozen design lock and an inspected master ImageGen slide as the reference for every remaining slide. Font family, role-based type sizes, weight, spacing, palette and layout stay consistent inside that post; the next story gets a theme suited to its subject. See [the full ImageGen procedure and repository references](skills/linkedin-ai-news-carousel/references/imagegen-consistency.md) and [design-lock example](examples/design-lock.json). A visual review is required because generative images cannot guarantee exact font metrics.
+
+[Discovery](docs/discovery.md) uses current community leads, original release evidence, event/version deduplication and claim-level sourcing. Every post must still pass the 96-hour gate after generation. These are orchestration requirements; unattended image quality and live publishing have not been established by configuration checks alone.
