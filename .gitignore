@@ -1,0 +1,10 @@
+config.local.json
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+runtime/
+.DS_Store
+*.log

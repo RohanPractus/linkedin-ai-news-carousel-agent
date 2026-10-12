@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 1,
+    "month": 1,
+    "theme": "AI model capabilities",
+    "topic": "Reasoning versus pattern matching",
+    "angle": "Which controlled tests distinguish useful reasoning from memorized answer patterns?",
+    "hashtags": [
+      "LLMs",
+      "AIReasoning"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 2,
+    "month": 1,
+    "theme": "AI model capabilities",
+    "topic": "Long context versus usable context",
+    "angle": "How does answer accuracy change when relevant evidence moves deeper into a prompt?",
+    "hashtags": [
+      "LLMs",
+      "LongContext"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 3,
+    "month": 1,
+    "theme": "AI model capabilities",
+    "topic": "Small models for narrow tasks",
+    "angle": "When can a specialized small model match a larger general model on a defined task?",
+    "hashtags": [
+      "SmallLanguageModels",
+      "ModelSpecialization"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 4,
+    "month": 1,
+    "theme": "AI model capabilities",
+    "topic": "Model calibration",
+    "angle": "How well does a model's expressed confidence predict whether its answer is correct?",
+    "hashtags": [
+      "ModelCalibration",
+      "AIEvaluation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 5,
+    "month": 1,
+    "theme": "AI model capabilities",
+    "topic": "Mathematical reasoning",
+    "angle": "Which mathematical tasks expose failures that fluent explanations conceal?",
+    "hashtags": [
+      "AIReasoning",
+      "MathematicalReasoning"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 6,
+    "month": 1,
+    "theme": "AI model capabilities",
+    "topic": "Code generation and correctness",
+    "angle": "How should generated code be judged beyond passing its first unit test?",
+    "hashtags": [
+      "CodeGeneration",
+      "SoftwareTesting"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 7,
+    "month": 1,
+    "theme": "AI model capabilities",
+    "topic": "Instruction hierarchy",
+    "angle": "How consistently does a model resolve conflicting system and user instructions?",
+    "hashtags": [
+      "LLMs",
+      "InstructionFollowing"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 8,
+    "month": 1,
+    "theme": "AI model capabilities",
+    "topic": "Multilingual capability gaps",
+    "angle": "Which evaluation choices reveal unequal performance across languages?",
+    "hashtags": [
+      "MultilingualAI",
+      "AIEvaluation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 9,
+    "month": 1,
+    "theme": "AI model capabilities",
+    "topic": "Structured output reliability",
+    "angle": "What happens when schema constraints become more complex than simple JSON fields?",
+    "hashtags": [
+      "StructuredOutputs",
+      "LLMs"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 10,
+    "month": 1,
+    "theme": "AI model capabilities",
+    "topic": "Compositional generalization",
+    "angle": "Can a model combine familiar skills on tasks absent from its examples?",
+    "hashtags": [
+      "CompositionalGeneralization",
+      "AIReasoning"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 11,
+    "month": 1,
+    "theme": "AI model capabilities",
+    "topic": "Test-time computation",
+    "angle": "When does spending more inference effort improve accuracy enough to justify its cost?",
+    "hashtags": [
+      "TestTimeCompute",
+      "AIInference"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 12,
+    "month": 1,
+    "theme": "AI model capabilities",
+    "topic": "Model memory and knowledge freshness",
+    "angle": "Which questions require current retrieval rather than model parameters?",
+    "hashtags": [
+      "LLMs",
+      "KnowledgeRetrieval"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 13,
+    "month": 1,
+    "theme": "AI model capabilities",
+    "topic": "Domain specialization",
+    "angle": "How should a domain model be compared with a general model using the same evidence?",
+    "hashtags": [
+      "DomainSpecificAI",
+      "ModelSpecialization"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 14,
+    "month": 1,
+    "theme": "AI model capabilities",
+    "topic": "Abstention as a capability",
+    "angle": "When should a model decline to answer instead of offering a plausible guess?",
+    "hashtags": [
+      "UncertaintyQuantification",
+      "AIEvaluation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 15,
+    "month": 1,
+    "theme": "AI model capabilities",
+    "topic": "Capability benchmark saturation",
+    "angle": "What makes a benchmark useful after leading models approach its ceiling?",
+    "hashtags": [
+      "AIBenchmarks",
+      "AIEvaluation"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 16,
+    "month": 2,
+    "theme": "AI agents",
+    "topic": "Agent stopping conditions",
+    "angle": "How should an agent decide that a task is complete without unnecessary tool calls?",
+    "hashtags": [
+      "AIAgents",
+      "TaskCompletion"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 17,
+    "month": 2,
+    "theme": "AI agents",
+    "topic": "Single agent versus multiple agents",
+    "angle": "Which task dependencies justify adding agents rather than one stronger workflow?",
+    "hashtags": [
+      "MultiAgentSystems",
+      "AIOrchestration"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 18,
+    "month": 2,
+    "theme": "AI agents",
+    "topic": "Tool selection errors",
+    "angle": "How can an evaluation separate choosing the wrong tool from using the right tool incorrectly?",
+    "hashtags": [
+      "AIAgents",
+      "ToolCalling"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 19,
+    "month": 2,
+    "theme": "AI agents",
+    "topic": "Agent planning horizons",
+    "angle": "When does a longer plan help, and when does it amplify early mistakes?",
+    "hashtags": [
+      "AIAgents",
+      "AIPlanning"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 20,
+    "month": 2,
+    "theme": "AI agents",
+    "topic": "Persistent agent state",
+    "angle": "Which state must survive a restart for an agent to resume safely?",
+    "hashtags": [
+      "AIAgents",
+      "StateManagement"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 21,
+    "month": 2,
+    "theme": "AI agents",
+    "topic": "Agent permissions",
+    "angle": "How can tool access be scoped to the minimum needed for each task?",
+    "hashtags": [
+      "AIAgents",
+      "LeastPrivilege"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 22,
+    "month": 2,
+    "theme": "AI agents",
+    "topic": "Agent handoffs",
+    "angle": "What information should travel between agents to avoid repeated work and lost constraints?",
+    "hashtags": [
+      "MultiAgentSystems",
+      "AgentHandoffs"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 23,
+    "month": 2,
+    "theme": "AI agents",
+    "topic": "Browser agents",
+    "angle": "Which website changes most often break a browser agent's task completion?",
+    "hashtags": [
+      "BrowserAgents",
+      "WebAutomation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 24,
+    "month": 2,
+    "theme": "AI agents",
+    "topic": "Agent retries and duplicate actions",
+    "angle": "How can retry policies prevent duplicated emails or transactions?",
+    "hashtags": [
+      "AIAgents",
+      "Idempotency"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 25,
+    "month": 2,
+    "theme": "AI agents",
+    "topic": "Agent observability",
+    "angle": "Which trace fields explain a failed run without overwhelming reviewers?",
+    "hashtags": [
+      "AgentObservability",
+      "LLMOps"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 26,
+    "month": 2,
+    "theme": "AI agents",
+    "topic": "Human approval checkpoints",
+    "angle": "Where should approval sit in a workflow with irreversible actions?",
+    "hashtags": [
+      "HumanInTheLoop",
+      "AIAgents"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 27,
+    "month": 2,
+    "theme": "AI agents",
+    "topic": "Agent memory hygiene",
+    "angle": "How can stale memories be detected before they guide a new task?",
+    "hashtags": [
+      "AgentMemory",
+      "DataQuality"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 28,
+    "month": 2,
+    "theme": "AI agents",
+    "topic": "Agent sandboxing",
+    "angle": "Which isolation boundaries matter when an agent executes generated code?",
+    "hashtags": [
+      "AIAgents",
+      "Sandboxing"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 29,
+    "month": 2,
+    "theme": "AI agents",
+    "topic": "Agent protocol interoperability",
+    "angle": "What must two tools agree on for an agent to switch between them reliably?",
+    "hashtags": [
+      "AgentProtocols",
+      "Interoperability"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 30,
+    "month": 2,
+    "theme": "AI agents",
+    "topic": "Agent maintenance burden",
+    "angle": "Which recurring operational costs should count when comparing an agent with a script?",
+    "hashtags": [
+      "AgentOps",
+      "TotalCostOfOwnership"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 31,
+    "month": 3,
+    "theme": "Multimodal AI",
+    "topic": "Image understanding beyond captions",
+    "angle": "Which visual tasks require spatial reasoning rather than recognizing objects?",
+    "hashtags": [
+      "ComputerVision",
+      "SpatialReasoning"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 32,
+    "month": 3,
+    "theme": "Multimodal AI",
+    "topic": "Video temporal understanding",
+    "angle": "Can a model track a changing object across cuts and occlusions?",
+    "hashtags": [
+      "VideoUnderstanding",
+      "TemporalReasoning"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 33,
+    "month": 3,
+    "theme": "Multimodal AI",
+    "topic": "Speech recognition under noise",
+    "angle": "How should speech systems be tested across accents and noisy environments?",
+    "hashtags": [
+      "SpeechRecognition",
+      "AudioAI"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 34,
+    "month": 3,
+    "theme": "Multimodal AI",
+    "topic": "Real-time voice latency",
+    "angle": "Which delays most affect the usability of a conversational voice system?",
+    "hashtags": [
+      "VoiceAI",
+      "RealTimeAI"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 35,
+    "month": 3,
+    "theme": "Multimodal AI",
+    "topic": "Text-to-image prompt fidelity",
+    "angle": "How can image generation be evaluated against multiple explicit constraints?",
+    "hashtags": [
+      "TextToImage",
+      "AIEvaluation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 36,
+    "month": 3,
+    "theme": "Multimodal AI",
+    "topic": "Image editing consistency",
+    "angle": "What tests reveal unintended changes outside the requested edit region?",
+    "hashtags": [
+      "AIImageEditing",
+      "ImageConsistency"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 37,
+    "month": 3,
+    "theme": "Multimodal AI",
+    "topic": "Generated video continuity",
+    "angle": "How should object identity and motion consistency be assessed across frames?",
+    "hashtags": [
+      "VideoGeneration",
+      "TemporalConsistency"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 38,
+    "month": 3,
+    "theme": "Multimodal AI",
+    "topic": "Document vision and layout",
+    "angle": "When does layout-aware extraction improve over plain OCR plus text parsing?",
+    "hashtags": [
+      "DocumentAI",
+      "OCR"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 39,
+    "month": 3,
+    "theme": "Multimodal AI",
+    "topic": "Audio event understanding",
+    "angle": "How reliably can models distinguish overlapping environmental sounds?",
+    "hashtags": [
+      "AudioAI",
+      "SoundEventDetection"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 40,
+    "month": 3,
+    "theme": "Multimodal AI",
+    "topic": "Cross-modal hallucinations",
+    "angle": "What happens when a caption contradicts the image supplied with it?",
+    "hashtags": [
+      "MultimodalAI",
+      "Hallucinations"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 41,
+    "month": 3,
+    "theme": "Multimodal AI",
+    "topic": "Grounded visual references",
+    "angle": "How should a system show which image region supports its answer?",
+    "hashtags": [
+      "VisualGrounding",
+      "ComputerVision"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 42,
+    "month": 3,
+    "theme": "Multimodal AI",
+    "topic": "Multimodal accessibility",
+    "angle": "Which AI features help users access visual information without inventing details?",
+    "hashtags": [
+      "AssistiveAI",
+      "Accessibility"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 43,
+    "month": 3,
+    "theme": "Multimodal AI",
+    "topic": "Synthetic media provenance",
+    "angle": "What can provenance metadata prove about a generated asset, and what remains uncertain?",
+    "hashtags": [
+      "ContentProvenance",
+      "SyntheticMedia"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 44,
+    "month": 3,
+    "theme": "Multimodal AI",
+    "topic": "Multimodal dataset contamination",
+    "angle": "How can near-duplicate images distort an evaluation result?",
+    "hashtags": [
+      "MultimodalAI",
+      "DataContamination"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 45,
+    "month": 3,
+    "theme": "Multimodal AI",
+    "topic": "Multimodal privacy boundaries",
+    "angle": "Which sensitive information can an image or audio clip reveal beyond its obvious content?",
+    "hashtags": [
+      "MultimodalAI",
+      "DataPrivacy"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 46,
+    "month": 4,
+    "theme": "Retrieval and knowledge systems",
+    "topic": "Chunk size tradeoffs",
+    "angle": "How does chunk size change retrieval precision for a fixed document collection?",
+    "hashtags": [
+      "RAG",
+      "TextChunking"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 47,
+    "month": 4,
+    "theme": "Retrieval and knowledge systems",
+    "topic": "Hybrid search",
+    "angle": "Which query types benefit from combining keyword search with vector retrieval?",
+    "hashtags": [
+      "HybridSearch",
+      "InformationRetrieval"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 48,
+    "month": 4,
+    "theme": "Retrieval and knowledge systems",
+    "topic": "Reranking retrieved evidence",
+    "angle": "When does reranking improve answers enough to cover its added latency?",
+    "hashtags": [
+      "Reranking",
+      "RAG"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 49,
+    "month": 4,
+    "theme": "Retrieval and knowledge systems",
+    "topic": "Citation correctness",
+    "angle": "Does each generated citation actually support the claim attached to it?",
+    "hashtags": [
+      "CitationAccuracy",
+      "GroundedAI"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 50,
+    "month": 4,
+    "theme": "Retrieval and knowledge systems",
+    "topic": "Knowledge graph retrieval",
+    "angle": "Which relationship-heavy questions benefit from graph traversal over text search?",
+    "hashtags": [
+      "KnowledgeGraphs",
+      "GraphRAG"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 51,
+    "month": 4,
+    "theme": "Retrieval and knowledge systems",
+    "topic": "Freshness-aware retrieval",
+    "angle": "How should a system handle contradictory documents with different publication dates?",
+    "hashtags": [
+      "RAG",
+      "DataFreshness"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 52,
+    "month": 4,
+    "theme": "Retrieval and knowledge systems",
+    "topic": "Access-controlled retrieval",
+    "angle": "How can retrieval enforce per-user permissions before evidence reaches a model?",
+    "hashtags": [
+      "RAG",
+      "AccessControl"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 53,
+    "month": 4,
+    "theme": "Retrieval and knowledge systems",
+    "topic": "RAG versus fine-tuning",
+    "angle": "Which failure types are best addressed by better evidence rather than new model weights?",
+    "hashtags": [
+      "RAG",
+      "FineTuning"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 54,
+    "month": 4,
+    "theme": "Retrieval and knowledge systems",
+    "topic": "Query rewriting",
+    "angle": "When does a rewritten query improve recall while preserving the user's intent?",
+    "hashtags": [
+      "QueryRewriting",
+      "InformationRetrieval"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 55,
+    "month": 4,
+    "theme": "Retrieval and knowledge systems",
+    "topic": "Multihop retrieval",
+    "angle": "How can a system find evidence spread across several documents without drifting?",
+    "hashtags": [
+      "MultiHopRetrieval",
+      "RAG"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 56,
+    "month": 4,
+    "theme": "Retrieval and knowledge systems",
+    "topic": "Table retrieval",
+    "angle": "What makes numerical questions over tables different from ordinary text retrieval?",
+    "hashtags": [
+      "TableRetrieval",
+      "DocumentAI"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 57,
+    "month": 4,
+    "theme": "Retrieval and knowledge systems",
+    "topic": "Negative evidence",
+    "angle": "How should a system answer when the relevant documents do not contain the requested fact?",
+    "hashtags": [
+      "RAG",
+      "AnswerAbstention"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 58,
+    "month": 4,
+    "theme": "Retrieval and knowledge systems",
+    "topic": "Embedding model changes",
+    "angle": "Which checks are needed before replacing an embedding model in an existing index?",
+    "hashtags": [
+      "Embeddings",
+      "VectorSearch"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 59,
+    "month": 4,
+    "theme": "Retrieval and knowledge systems",
+    "topic": "Retrieval evaluation sets",
+    "angle": "How can representative questions be built without leaking answers into the test process?",
+    "hashtags": [
+      "RetrievalEvaluation",
+      "RAG"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 60,
+    "month": 4,
+    "theme": "Retrieval and knowledge systems",
+    "topic": "Knowledge base lifecycle",
+    "angle": "What should happen to embeddings when a source is corrected or deleted?",
+    "hashtags": [
+      "KnowledgeManagement",
+      "VectorDatabases"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 61,
+    "month": 5,
+    "theme": "AI economics and infrastructure",
+    "topic": "Inference cost per completed task",
+    "angle": "How does accounting for failed attempts change the apparent cost of an AI workflow?",
+    "hashtags": [
+      "AIInference",
+      "CostPerTask"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 62,
+    "month": 5,
+    "theme": "AI economics and infrastructure",
+    "topic": "GPU utilization",
+    "angle": "Which serving choices improve utilization without unacceptable queueing delays?",
+    "hashtags": [
+      "GPUs",
+      "ModelServing"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 63,
+    "month": 5,
+    "theme": "AI economics and infrastructure",
+    "topic": "KV cache economics",
+    "angle": "How does context length affect memory consumption and concurrent serving capacity?",
+    "hashtags": [
+      "KVCache",
+      "AIInference"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 64,
+    "month": 5,
+    "theme": "AI economics and infrastructure",
+    "topic": "Quantization tradeoffs",
+    "angle": "Which task types lose the most accuracy after model quantization?",
+    "hashtags": [
+      "ModelQuantization",
+      "AIEvaluation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 65,
+    "month": 5,
+    "theme": "AI economics and infrastructure",
+    "topic": "Batching and latency",
+    "angle": "Where is the practical tradeoff between throughput and interactive responsiveness?",
+    "hashtags": [
+      "InferenceBatching",
+      "Latency"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 66,
+    "month": 5,
+    "theme": "AI economics and infrastructure",
+    "topic": "Model routing",
+    "angle": "When should a request be escalated from a smaller model to a larger one?",
+    "hashtags": [
+      "ModelRouting",
+      "AIInference"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 67,
+    "month": 5,
+    "theme": "AI economics and infrastructure",
+    "topic": "Prompt caching",
+    "angle": "Which workloads benefit from cached prefixes after accounting for invalidation?",
+    "hashtags": [
+      "PromptCaching",
+      "LLMOps"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 68,
+    "month": 5,
+    "theme": "AI economics and infrastructure",
+    "topic": "Training versus inference spending",
+    "angle": "How should deployment volume influence investment in training or fine-tuning?",
+    "hashtags": [
+      "ModelTraining",
+      "AIInference"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 69,
+    "month": 5,
+    "theme": "AI economics and infrastructure",
+    "topic": "AI energy accounting",
+    "angle": "Which boundaries must be stated when comparing the energy use of AI systems?",
+    "hashtags": [
+      "AIEnergy",
+      "SustainableAI"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 70,
+    "month": 5,
+    "theme": "AI economics and infrastructure",
+    "topic": "On-premise versus cloud inference",
+    "angle": "Which utilization and privacy assumptions change the break-even calculation?",
+    "hashtags": [
+      "OnPremiseAI",
+      "CloudAI"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 71,
+    "month": 5,
+    "theme": "AI economics and infrastructure",
+    "topic": "Speculative decoding",
+    "angle": "Under what conditions does a draft model speed up generation without changing output quality?",
+    "hashtags": [
+      "SpeculativeDecoding",
+      "AIInference"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 72,
+    "month": 5,
+    "theme": "AI economics and infrastructure",
+    "topic": "AI accelerator portability",
+    "angle": "What makes moving a model between hardware stacks expensive?",
+    "hashtags": [
+      "AIAccelerators",
+      "ModelPortability"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 73,
+    "month": 5,
+    "theme": "AI economics and infrastructure",
+    "topic": "Network bottlenecks in distributed AI",
+    "angle": "When does communication dominate a distributed model's runtime?",
+    "hashtags": [
+      "DistributedAI",
+      "NetworkPerformance"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 74,
+    "month": 5,
+    "theme": "AI economics and infrastructure",
+    "topic": "Provider pricing comparisons",
+    "angle": "How can pricing be compared fairly across context lengths and output requirements?",
+    "hashtags": [
+      "AIInference",
+      "ModelPricing"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 75,
+    "month": 5,
+    "theme": "AI economics and infrastructure",
+    "topic": "Total cost of AI ownership",
+    "angle": "Which monitoring and maintenance expenses belong alongside token charges?",
+    "hashtags": [
+      "LLMOps",
+      "TotalCostOfOwnership"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 76,
+    "month": 6,
+    "theme": "AI evaluation and reliability",
+    "topic": "Task-specific evals",
+    "angle": "How should an evaluation reflect the actual decisions an AI system supports?",
+    "hashtags": [
+      "AIEvaluation",
+      "TaskSpecificEvaluation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 77,
+    "month": 6,
+    "theme": "AI evaluation and reliability",
+    "topic": "Holdout contamination",
+    "angle": "Which signs suggest an evaluation set influenced model development?",
+    "hashtags": [
+      "DataContamination",
+      "AIBenchmarks"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 78,
+    "month": 6,
+    "theme": "AI evaluation and reliability",
+    "topic": "LLM-as-judge bias",
+    "angle": "How can a judging model's preferences distort comparisons between answers?",
+    "hashtags": [
+      "LLMAsJudge",
+      "EvaluationBias"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 79,
+    "month": 6,
+    "theme": "AI evaluation and reliability",
+    "topic": "Human evaluation agreement",
+    "angle": "What should be measured when reviewers disagree about answer quality?",
+    "hashtags": [
+      "HumanEvaluation",
+      "InterRaterAgreement"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 80,
+    "month": 6,
+    "theme": "AI evaluation and reliability",
+    "topic": "Failure severity weighting",
+    "angle": "How can rare costly errors be represented alongside average accuracy?",
+    "hashtags": [
+      "AIEvaluation",
+      "FailureSeverity"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 81,
+    "month": 6,
+    "theme": "AI evaluation and reliability",
+    "topic": "Regression testing",
+    "angle": "Which fixed cases should be rerun after a prompt or model update?",
+    "hashtags": [
+      "AIRegressionTesting",
+      "LLMOps"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 82,
+    "month": 6,
+    "theme": "AI evaluation and reliability",
+    "topic": "Distribution shifts",
+    "angle": "What happens to reliability when production inputs differ from benchmark examples?",
+    "hashtags": [
+      "DistributionShift",
+      "ModelReliability"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 83,
+    "month": 6,
+    "theme": "AI evaluation and reliability",
+    "topic": "Adversarial robustness",
+    "angle": "Which small input changes expose brittle model behavior?",
+    "hashtags": [
+      "AdversarialRobustness",
+      "AISecurity"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 84,
+    "month": 6,
+    "theme": "AI evaluation and reliability",
+    "topic": "Uncertainty communication",
+    "angle": "How can an answer express uncertainty without hiding the information needed to act?",
+    "hashtags": [
+      "UncertaintyQuantification",
+      "AICommunication"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 85,
+    "month": 6,
+    "theme": "AI evaluation and reliability",
+    "topic": "Reproducibility of AI runs",
+    "angle": "Which version and configuration details make a result meaningfully reproducible?",
+    "hashtags": [
+      "AIReproducibility",
+      "ExperimentTracking"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 86,
+    "month": 6,
+    "theme": "AI evaluation and reliability",
+    "topic": "Evaluation coverage",
+    "angle": "How can a test suite reveal important task classes it currently omits?",
+    "hashtags": [
+      "AIEvaluation",
+      "TestCoverage"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 87,
+    "month": 6,
+    "theme": "AI evaluation and reliability",
+    "topic": "Production sampling",
+    "angle": "Which live cases should be reviewed when it is impossible to inspect every output?",
+    "hashtags": [
+      "ProductionMonitoring",
+      "HumanReview"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 88,
+    "month": 6,
+    "theme": "AI evaluation and reliability",
+    "topic": "Error taxonomies",
+    "angle": "How does separating retrieval and reasoning failures improve debugging?",
+    "hashtags": [
+      "AIErrorAnalysis",
+      "RAG"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 89,
+    "month": 6,
+    "theme": "AI evaluation and reliability",
+    "topic": "AI service fallbacks",
+    "angle": "What should a system do when its model provider becomes unavailable?",
+    "hashtags": [
+      "AIResilience",
+      "ServiceReliability"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 90,
+    "month": 6,
+    "theme": "AI evaluation and reliability",
+    "topic": "Reliability budgets",
+    "angle": "How should a workflow decide which failures demand an immediate shutdown?",
+    "hashtags": [
+      "AIReliability",
+      "RiskManagement"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 91,
+    "month": 7,
+    "theme": "AI security and governance",
+    "topic": "Indirect prompt injection",
+    "angle": "How can untrusted retrieved text change an agent's intended behavior?",
+    "hashtags": [
+      "PromptInjection",
+      "AgentSecurity"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 92,
+    "month": 7,
+    "theme": "AI security and governance",
+    "topic": "Secret leakage in AI tools",
+    "angle": "Which data paths could expose credentials through a model response or tool call?",
+    "hashtags": [
+      "AISecurity",
+      "SecretManagement"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 93,
+    "month": 7,
+    "theme": "AI security and governance",
+    "topic": "Model supply-chain trust",
+    "angle": "What should be verified before running downloaded model artifacts?",
+    "hashtags": [
+      "ModelSecurity",
+      "SoftwareSupplyChain"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 94,
+    "month": 7,
+    "theme": "AI security and governance",
+    "topic": "AI audit trails",
+    "angle": "Which records allow a reviewer to reconstruct a consequential model-assisted decision?",
+    "hashtags": [
+      "AIAuditability",
+      "DecisionTraceability"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 95,
+    "month": 7,
+    "theme": "AI security and governance",
+    "topic": "Data retention boundaries",
+    "angle": "How should retention be configured across models, tools and logging systems?",
+    "hashtags": [
+      "DataRetention",
+      "AIPrivacy"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 96,
+    "month": 7,
+    "theme": "AI security and governance",
+    "topic": "Model extraction risks",
+    "angle": "Which access patterns could help an attacker reproduce a private model's behavior?",
+    "hashtags": [
+      "ModelExtraction",
+      "AISecurity"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 97,
+    "month": 7,
+    "theme": "AI security and governance",
+    "topic": "Training data privacy",
+    "angle": "What can membership inference reveal about sensitive training examples?",
+    "hashtags": [
+      "MembershipInference",
+      "TrainingDataPrivacy"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 98,
+    "month": 7,
+    "theme": "AI security and governance",
+    "topic": "Red-teaming scope",
+    "angle": "Which threats should be included when evaluating an AI application rather than just its model?",
+    "hashtags": [
+      "AIRedTeaming",
+      "ApplicationSecurity"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 99,
+    "month": 7,
+    "theme": "AI security and governance",
+    "topic": "AI incident response",
+    "angle": "What evidence should be preserved after a harmful agent action?",
+    "hashtags": [
+      "AIIncidentResponse",
+      "AgentSecurity"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 100,
+    "month": 7,
+    "theme": "AI security and governance",
+    "topic": "Authorization versus model instructions",
+    "angle": "Which safeguards must be enforced outside a model's natural-language prompt?",
+    "hashtags": [
+      "AIAuthorization",
+      "AccessControl"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 101,
+    "month": 7,
+    "theme": "AI security and governance",
+    "topic": "AI policy implementation",
+    "angle": "How can a written AI policy become concrete system checks?",
+    "hashtags": [
+      "AIGovernance",
+      "PolicyImplementation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 102,
+    "month": 7,
+    "theme": "AI security and governance",
+    "topic": "Bias measurement",
+    "angle": "Which population slices should be evaluated before an AI-assisted decision process is deployed?",
+    "hashtags": [
+      "AIFairness",
+      "BiasEvaluation"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 103,
+    "month": 7,
+    "theme": "AI security and governance",
+    "topic": "Consent for voice cloning",
+    "angle": "How can a voice-generation workflow verify authorization and preserve its scope?",
+    "hashtags": [
+      "VoiceCloning",
+      "Consent"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 104,
+    "month": 7,
+    "theme": "AI security and governance",
+    "topic": "AI regulatory evidence",
+    "angle": "Which technical records help establish compliance with verified rules in the relevant jurisdiction?",
+    "hashtags": [
+      "AICompliance",
+      "RegulatoryEvidence"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 105,
+    "month": 7,
+    "theme": "AI security and governance",
+    "topic": "Governance of model updates",
+    "angle": "Who should review changes that alter a deployed model's risk profile?",
+    "hashtags": [
+      "ModelGovernance",
+      "ChangeManagement"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 106,
+    "month": 8,
+    "theme": "Open models and edge AI",
+    "topic": "Open weights versus open data",
+    "angle": "Which model components are actually available when a release is called open?",
+    "hashtags": [
+      "OpenWeights",
+      "OpenData"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 107,
+    "month": 8,
+    "theme": "Open models and edge AI",
+    "topic": "Model license constraints",
+    "angle": "What should users verify before commercial deployment of an open model?",
+    "hashtags": [
+      "OpenSourceAI",
+      "ModelLicensing"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 108,
+    "month": 8,
+    "theme": "Open models and edge AI",
+    "topic": "Local AI privacy",
+    "angle": "Which privacy benefits depend on keeping logs and tools local as well as inference?",
+    "hashtags": [
+      "LocalAI",
+      "DataPrivacy"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 109,
+    "month": 8,
+    "theme": "Open models and edge AI",
+    "topic": "Edge memory limits",
+    "angle": "How should model size be chosen for a device with limited RAM?",
+    "hashtags": [
+      "EdgeAI",
+      "MemoryOptimization"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 110,
+    "month": 8,
+    "theme": "Open models and edge AI",
+    "topic": "Offline speech assistants",
+    "angle": "Which parts of a voice assistant can operate reliably without a network?",
+    "hashtags": [
+      "OfflineAI",
+      "SpeechAssistants"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 111,
+    "month": 8,
+    "theme": "Open models and edge AI",
+    "topic": "Fine-tuning small open models",
+    "angle": "When does a targeted fine-tune outperform prompting a larger local model?",
+    "hashtags": [
+      "FineTuning",
+      "SmallLanguageModels"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 112,
+    "month": 8,
+    "theme": "Open models and edge AI",
+    "topic": "Distillation quality",
+    "angle": "Which skills survive transfer from a teacher model to a smaller student?",
+    "hashtags": [
+      "KnowledgeDistillation",
+      "ModelEvaluation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 113,
+    "month": 8,
+    "theme": "Open models and edge AI",
+    "topic": "Community benchmark reproducibility",
+    "angle": "What makes an independently reported open-model result credible?",
+    "hashtags": [
+      "OpenSourceAI",
+      "BenchmarkReproducibility"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 114,
+    "month": 8,
+    "theme": "Open models and edge AI",
+    "topic": "Mobile AI battery use",
+    "angle": "How should power and thermal limits be included in mobile model testing?",
+    "hashtags": [
+      "MobileAI",
+      "EnergyEfficiency"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 115,
+    "month": 8,
+    "theme": "Open models and edge AI",
+    "topic": "Federated learning",
+    "angle": "Which data distributions challenge training across decentralized devices?",
+    "hashtags": [
+      "FederatedLearning",
+      "DecentralizedAI"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 116,
+    "month": 8,
+    "theme": "Open models and edge AI",
+    "topic": "Local multimodal models",
+    "angle": "Which vision-language tasks are practical within edge compute limits?",
+    "hashtags": [
+      "EdgeAI",
+      "MultimodalAI"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 117,
+    "month": 8,
+    "theme": "Open models and edge AI",
+    "topic": "Open model update security",
+    "angle": "How can deployments verify the provenance of replacement weights?",
+    "hashtags": [
+      "ModelSecurity",
+      "OpenWeights"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 118,
+    "month": 8,
+    "theme": "Open models and edge AI",
+    "topic": "Sparse models",
+    "angle": "When does activating fewer parameters reduce real deployment costs?",
+    "hashtags": [
+      "SparseModels",
+      "AIInference"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 119,
+    "month": 8,
+    "theme": "Open models and edge AI",
+    "topic": "Device-cloud collaboration",
+    "angle": "Which requests should run locally and which should be escalated to cloud AI?",
+    "hashtags": [
+      "EdgeAI",
+      "HybridAI"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 120,
+    "month": 8,
+    "theme": "Open models and edge AI",
+    "topic": "Open model ecosystem sustainability",
+    "angle": "What incentives support long-term maintenance of freely available model tooling?",
+    "hashtags": [
+      "OpenSourceAI",
+      "SoftwareSustainability"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 121,
+    "month": 9,
+    "theme": "AI robotics and science",
+    "topic": "Sim-to-real transfer",
+    "angle": "Which simulation assumptions most often fail when a robot enters a physical environment?",
+    "hashtags": [
+      "SimToReal",
+      "Robotics"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 122,
+    "month": 9,
+    "theme": "AI robotics and science",
+    "topic": "Robot foundation models",
+    "angle": "How should general robot policies be evaluated across unfamiliar objects and tasks?",
+    "hashtags": [
+      "RobotLearning",
+      "FoundationModels"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 123,
+    "month": 9,
+    "theme": "AI robotics and science",
+    "topic": "Embodied safety",
+    "angle": "Which physical constraints need enforcement beyond a learned robot policy?",
+    "hashtags": [
+      "RobotSafety",
+      "EmbodiedAI"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 124,
+    "month": 9,
+    "theme": "AI robotics and science",
+    "topic": "Robot demonstration data",
+    "angle": "How do demonstration diversity and quality affect skill generalization?",
+    "hashtags": [
+      "RobotLearning",
+      "DemonstrationData"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 125,
+    "month": 9,
+    "theme": "AI robotics and science",
+    "topic": "Vision-language-action models",
+    "angle": "Where can language ambiguity translate into unsafe physical behavior?",
+    "hashtags": [
+      "VisionLanguageAction",
+      "EmbodiedAI"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 126,
+    "month": 9,
+    "theme": "AI robotics and science",
+    "topic": "Robot recovery behaviors",
+    "angle": "How should a robot recognize and recover from a failed grasp?",
+    "hashtags": [
+      "RobotRecovery",
+      "RoboticGrasping"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 127,
+    "month": 9,
+    "theme": "AI robotics and science",
+    "topic": "AI protein design",
+    "angle": "Which experimental evidence is needed beyond a model's predicted structure?",
+    "hashtags": [
+      "ProteinDesign",
+      "AIForScience"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 128,
+    "month": 9,
+    "theme": "AI robotics and science",
+    "topic": "AI materials discovery",
+    "angle": "How should candidate novelty and physical feasibility be assessed?",
+    "hashtags": [
+      "MaterialsDiscovery",
+      "AIForScience"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 129,
+    "month": 9,
+    "theme": "AI robotics and science",
+    "topic": "Scientific surrogate models",
+    "angle": "When does a fast learned approximation fail outside its training regime?",
+    "hashtags": [
+      "SurrogateModels",
+      "ScientificML"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 130,
+    "month": 9,
+    "theme": "AI robotics and science",
+    "topic": "AI weather prediction",
+    "angle": "Which forecast metrics matter for local extreme events?",
+    "hashtags": [
+      "AIWeatherPrediction",
+      "ForecastEvaluation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 131,
+    "month": 9,
+    "theme": "AI robotics and science",
+    "topic": "AI laboratory automation",
+    "angle": "How can automated experiments maintain traceability and reproducibility?",
+    "hashtags": [
+      "LaboratoryAutomation",
+      "ScientificReproducibility"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 132,
+    "month": 9,
+    "theme": "AI robotics and science",
+    "topic": "Causal inference with AI",
+    "angle": "Which claims require interventions rather than predictive accuracy?",
+    "hashtags": [
+      "CausalInference",
+      "MachineLearning"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 133,
+    "month": 9,
+    "theme": "AI robotics and science",
+    "topic": "AI drug discovery pipelines",
+    "angle": "Where does a computationally promising candidate still require laboratory validation?",
+    "hashtags": [
+      "AIDrugDiscovery",
+      "ExperimentalValidation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 134,
+    "month": 9,
+    "theme": "AI robotics and science",
+    "topic": "Scientific literature assistants",
+    "angle": "How can a research assistant distinguish evidence quality from citation volume?",
+    "hashtags": [
+      "ResearchAssistants",
+      "EvidenceQuality"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 135,
+    "month": 9,
+    "theme": "AI robotics and science",
+    "topic": "AI-generated scientific hypotheses",
+    "angle": "What makes a proposed hypothesis testable rather than merely plausible?",
+    "hashtags": [
+      "ScientificHypotheses",
+      "AIForScience"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 136,
+    "month": 10,
+    "theme": "AI business disruptions",
+    "topic": "Agency production economics",
+    "angle": "How might AI-assisted iteration change pricing for routine creative production?",
+    "hashtags": [
+      "AgencyEconomics",
+      "MarketingAutomation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 137,
+    "month": 10,
+    "theme": "AI business disruptions",
+    "topic": "AI customer support",
+    "angle": "Which support cases should remain with a human after automation is introduced?",
+    "hashtags": [
+      "AICustomerSupport",
+      "HumanHandoff"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 138,
+    "month": 10,
+    "theme": "AI business disruptions",
+    "topic": "AI search and discovery",
+    "angle": "How could answer engines change the incentives for publishing source information?",
+    "hashtags": [
+      "AISearch",
+      "InformationDiscovery"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 139,
+    "month": 10,
+    "theme": "AI business disruptions",
+    "topic": "AI software delivery",
+    "angle": "Which development bottlenecks remain after code generation becomes faster?",
+    "hashtags": [
+      "AIForSoftwareEngineering",
+      "SoftwareDelivery"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 140,
+    "month": 10,
+    "theme": "AI business disruptions",
+    "topic": "AI procurement criteria",
+    "angle": "How should buyers compare vendors using tested outcomes rather than demo quality?",
+    "hashtags": [
+      "AIProcurement",
+      "VendorEvaluation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 141,
+    "month": 10,
+    "theme": "AI business disruptions",
+    "topic": "AI professional services",
+    "angle": "Which task components can be automated while preserving expert accountability?",
+    "hashtags": [
+      "AIProfessionalServices",
+      "ExpertAccountability"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 142,
+    "month": 10,
+    "theme": "AI business disruptions",
+    "topic": "AI data advantage",
+    "angle": "When does proprietary data produce an advantage that competitors cannot easily copy?",
+    "hashtags": [
+      "AIDataStrategy",
+      "DataAdvantage"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 143,
+    "month": 10,
+    "theme": "AI business disruptions",
+    "topic": "AI product differentiation",
+    "angle": "What remains distinctive when multiple products use the same underlying model?",
+    "hashtags": [
+      "AIProducts",
+      "ProductDifferentiation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 144,
+    "month": 10,
+    "theme": "AI business disruptions",
+    "topic": "AI workflow switching costs",
+    "angle": "Which integrations make replacing an AI vendor difficult?",
+    "hashtags": [
+      "AIIntegrations",
+      "VendorLockIn"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 145,
+    "month": 10,
+    "theme": "AI business disruptions",
+    "topic": "AI productivity measurement",
+    "angle": "How can businesses separate faster task execution from higher total throughput?",
+    "hashtags": [
+      "AIProductivity",
+      "BusinessMetrics"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 146,
+    "month": 10,
+    "theme": "AI business disruptions",
+    "topic": "AI personalization economics",
+    "angle": "When does individualized content create value beyond generating more variants?",
+    "hashtags": [
+      "AIPersonalization",
+      "ContentAutomation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 147,
+    "month": 10,
+    "theme": "AI business disruptions",
+    "topic": "AI financial analysis workflows",
+    "angle": "Which controls are needed when models summarize numerical business evidence?",
+    "hashtags": [
+      "FinancialAI",
+      "DataValidation"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 148,
+    "month": 10,
+    "theme": "AI business disruptions",
+    "topic": "AI healthcare administration",
+    "angle": "Which administrative workflows can be tested without making clinical claims?",
+    "hashtags": [
+      "HealthcareAI",
+      "AdministrativeAutomation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 149,
+    "month": 10,
+    "theme": "AI business disruptions",
+    "topic": "AI legal document assistance",
+    "angle": "How should evidence and human review be preserved in document-analysis workflows?",
+    "hashtags": [
+      "LegalAI",
+      "DocumentAnalysis"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 150,
+    "month": 10,
+    "theme": "AI business disruptions",
+    "topic": "AI adoption failure modes",
+    "angle": "Which organizational assumptions can prevent a technically capable tool from delivering value?",
+    "hashtags": [
+      "AIAdoption",
+      "OrganizationalChange"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 151,
+    "month": 11,
+    "theme": "Human-AI collaboration",
+    "topic": "Automation bias",
+    "angle": "How can interface design prevent users from accepting an AI suggestion uncritically?",
+    "hashtags": [
+      "AutomationBias",
+      "HumanAIInteraction"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 152,
+    "month": 11,
+    "theme": "Human-AI collaboration",
+    "topic": "Human override design",
+    "angle": "What information does a person need to safely override an automated action?",
+    "hashtags": [
+      "HumanOverride",
+      "AIInterfaceDesign"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 153,
+    "month": 11,
+    "theme": "Human-AI collaboration",
+    "topic": "AI feedback loops",
+    "angle": "Which user corrections should become durable improvements rather than isolated edits?",
+    "hashtags": [
+      "AIFeedbackLoops",
+      "ContinuousImprovement"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 154,
+    "month": 11,
+    "theme": "Human-AI collaboration",
+    "topic": "Skill retention with AI",
+    "angle": "How can teams assess whether automation is eroding essential manual judgment?",
+    "hashtags": [
+      "HumanAIInteraction",
+      "SkillRetention"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 155,
+    "month": 11,
+    "theme": "Human-AI collaboration",
+    "topic": "AI explanation usefulness",
+    "angle": "Which explanations help users diagnose errors instead of merely sounding reassuring?",
+    "hashtags": [
+      "ExplainableAI",
+      "ErrorDiagnosis"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 156,
+    "month": 11,
+    "theme": "Human-AI collaboration",
+    "topic": "Collaborative writing with AI",
+    "angle": "Where should human intent be recorded before a model generates a draft?",
+    "hashtags": [
+      "AIWriting",
+      "HumanIntent"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 157,
+    "month": 11,
+    "theme": "Human-AI collaboration",
+    "topic": "AI creative exploration",
+    "angle": "How can generated alternatives widen exploration without converging on generic outputs?",
+    "hashtags": [
+      "GenerativeAI",
+      "CreativeExploration"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 158,
+    "month": 11,
+    "theme": "Human-AI collaboration",
+    "topic": "Trust calibration",
+    "angle": "How should users learn the boundaries of an AI system's competence?",
+    "hashtags": [
+      "TrustCalibration",
+      "HumanAIInteraction"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 159,
+    "month": 11,
+    "theme": "Human-AI collaboration",
+    "topic": "Cognitive load in AI interfaces",
+    "angle": "Which review requirements make automation harder to use than the original task?",
+    "hashtags": [
+      "AIInterfaceDesign",
+      "CognitiveLoad"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 160,
+    "month": 11,
+    "theme": "Human-AI collaboration",
+    "topic": "AI team coordination",
+    "angle": "How can shared AI assistants preserve different people's responsibilities and context?",
+    "hashtags": [
+      "CollaborativeAI",
+      "TeamCoordination"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 161,
+    "month": 11,
+    "theme": "Human-AI collaboration",
+    "topic": "Expert disagreement with AI",
+    "angle": "What process should resolve a conflict between a model recommendation and domain expertise?",
+    "hashtags": [
+      "ExpertJudgment",
+      "AIRecommendations"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 162,
+    "month": 11,
+    "theme": "Human-AI collaboration",
+    "topic": "AI accessibility evaluation",
+    "angle": "How should affected users participate in testing assistive AI tools?",
+    "hashtags": [
+      "AssistiveAI",
+      "AccessibilityTesting"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 163,
+    "month": 11,
+    "theme": "Human-AI collaboration",
+    "topic": "AI personalization control",
+    "angle": "Which preferences should be editable rather than inferred silently?",
+    "hashtags": [
+      "AIPersonalization",
+      "UserControl"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 164,
+    "month": 11,
+    "theme": "Human-AI collaboration",
+    "topic": "Human review sampling",
+    "angle": "How can review effort focus on the cases with greatest uncertainty or consequence?",
+    "hashtags": [
+      "HumanReview",
+      "RiskBasedSampling"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 165,
+    "month": 11,
+    "theme": "Human-AI collaboration",
+    "topic": "Accountability in AI collaboration",
+    "angle": "How should responsibility be assigned when a human and an agent jointly complete a task?",
+    "hashtags": [
+      "HumanAIInteraction",
+      "AIAccountability"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 166,
+    "month": 12,
+    "theme": "Yearly AI outlook",
+    "topic": "Capability forecast scorecard",
+    "angle": "Which earlier AI predictions can be compared with verified outcomes by publication time?",
+    "hashtags": [
+      "AIForecasting",
+      "CapabilityEvaluation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 167,
+    "month": 12,
+    "theme": "Yearly AI outlook",
+    "topic": "Agent adoption evidence",
+    "angle": "Which indicators distinguish pilot activity from sustained operational use?",
+    "hashtags": [
+      "AgentAdoption",
+      "AdoptionMetrics"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 168,
+    "month": 12,
+    "theme": "Yearly AI outlook",
+    "topic": "Multimodal progress review",
+    "angle": "Which tasks improved meaningfully when tested under comparable conditions?",
+    "hashtags": [
+      "MultimodalAI",
+      "ProgressEvaluation"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 169,
+    "month": 12,
+    "theme": "Yearly AI outlook",
+    "topic": "Open model outlook",
+    "angle": "Which licensing and deployment trends are supported by verified releases?",
+    "hashtags": [
+      "OpenSourceAI",
+      "ModelLicensing"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 170,
+    "month": 12,
+    "theme": "Yearly AI outlook",
+    "topic": "AI infrastructure constraints",
+    "angle": "Which observed bottlenecks could limit the next stage of deployment?",
+    "hashtags": [
+      "AIInfrastructure",
+      "DeploymentBottlenecks"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 171,
+    "month": 12,
+    "theme": "Yearly AI outlook",
+    "topic": "AI economics outlook",
+    "angle": "Which cost assumptions are most sensitive to changes in usage and model pricing?",
+    "hashtags": [
+      "AIEconomics",
+      "ModelPricing"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 172,
+    "month": 12,
+    "theme": "Yearly AI outlook",
+    "topic": "AI reliability progress",
+    "angle": "Which failure categories remain stubborn despite improved headline benchmarks?",
+    "hashtags": [
+      "AIReliability",
+      "FailureAnalysis"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 173,
+    "month": 12,
+    "theme": "Yearly AI outlook",
+    "topic": "AI governance outlook",
+    "angle": "Which verified policy changes alter how systems need to be built?",
+    "hashtags": [
+      "AIGovernance",
+      "PolicyChanges"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 174,
+    "month": 12,
+    "theme": "Yearly AI outlook",
+    "topic": "Robotics readiness review",
+    "angle": "What evidence separates impressive robot demonstrations from repeatable field performance?",
+    "hashtags": [
+      "Robotics",
+      "FieldTesting"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 175,
+    "month": 12,
+    "theme": "Yearly AI outlook",
+    "topic": "AI scientific impact review",
+    "angle": "Which claimed discoveries have independent experimental support?",
+    "hashtags": [
+      "AIForScience",
+      "ExperimentalValidation"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 176,
+    "month": 12,
+    "theme": "Yearly AI outlook",
+    "topic": "Human-AI collaboration outlook",
+    "angle": "Which interface improvements are supported by observed user outcomes?",
+    "hashtags": [
+      "HumanAIInteraction",
+      "UserOutcomes"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 177,
+    "month": 12,
+    "theme": "Yearly AI outlook",
+    "topic": "AI business model outlook",
+    "angle": "Which pricing experiments indicate a shift toward measurable outcomes?",
+    "hashtags": [
+      "AIBusinessModels",
+      "OutcomeBasedPricing"
+    ],
+    "format": "pdf"
+  },
+  {
+    "id": 178,
+    "month": 12,
+    "theme": "Yearly AI outlook",
+    "topic": "AI environmental outlook",
+    "angle": "Which transparent measurements support claims about efficiency improvements?",
+    "hashtags": [
+      "SustainableAI",
+      "EnvironmentalMeasurement"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 179,
+    "month": 12,
+    "theme": "Yearly AI outlook",
+    "topic": "Underexplored AI problems",
+    "angle": "Which important reliability or accessibility problems receive less attention than capabilities?",
+    "hashtags": [
+      "AIReliability",
+      "AIAccessibility"
+    ],
+    "format": "image"
+  },
+  {
+    "id": 180,
+    "month": 12,
+    "theme": "Yearly AI outlook",
+    "topic": "Next-year AI watchlist",
+    "angle": "Which falsifiable indicators should be tracked before making predictions for the following year?",
+    "hashtags": [
+      "AIForecasting",
+      "AIResearch"
+    ],
+    "format": "pdf"
+  }
+]

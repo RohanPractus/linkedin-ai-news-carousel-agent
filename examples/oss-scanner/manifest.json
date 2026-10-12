@@ -1,0 +1,49 @@
+{
+  "format": "pdf",
+  "pdf": "oss-scanner-linkedin.pdf",
+  "historical_example": true,
+  "source_url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+  "event_date": "2026-10-08",
+  "slides": [
+    {
+      "page": 1,
+      "label": "01 / 05",
+      "file": "slide-01.png",
+      "sha256": "a78c5c28f269fc4be5be134012c6c2c8ad89716df13881ff88d0109b39a6f27c",
+      "headline": "AI can find a flaw faster than a team can fix it.",
+      "alt_text": "AI can find a flaw faster than a team can fix it. Anthropic launched OSS Scanner on October 8, 2026."
+    },
+    {
+      "page": 2,
+      "label": "02 / 05",
+      "file": "slide-02.png",
+      "sha256": "31f67febf3ab6dbcb22b761402049c04ea34ef316562323a25b58974198d6ab6",
+      "headline": "Free security scans for open-source projects.",
+      "alt_text": "Free security scans for open-source projects. Opt-in scans use Anthropic models. Reports include an explanation and a suggested fix where available."
+    },
+    {
+      "page": 3,
+      "label": "03 / 05",
+      "file": "slide-03.png",
+      "sha256": "6c0632bf611bae9a29c0b6baf4e9452306aaaff9bb736bd01322ec78ecb1d64c",
+      "headline": "The reports arrive without human review.",
+      "alt_text": "The reports arrive without human review. Anthropic acknowledges possible inaccuracies. Maintainers still need to verify findings."
+    },
+    {
+      "page": 4,
+      "label": "04 / 05",
+      "file": "slide-04.png",
+      "sha256": "4700e5f071de278679a6901ad8f1d8b9ac52687fe78caa2b078c345186602c29",
+      "headline": "More findings can create more review work.",
+      "alt_text": "More findings can create more review work. My takeaway: measure verified repairs and review effort, alongside vulnerability discovery."
+    },
+    {
+      "page": 5,
+      "label": "05 / 05",
+      "file": "slide-05.png",
+      "sha256": "ddd37a2824c18fc55dbac25a1dbe1a00e49ec54f2c9c6230571b5b28f5ca8d72",
+      "headline": "Would AI security reports help your team?",
+      "alt_text": "Would AI security reports help your team? Or add to the backlog? Start with a workflow for verifying each finding."
+    }
+  ]
+}

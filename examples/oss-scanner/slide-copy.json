@@ -1,0 +1,27 @@
+[
+  [
+    "AI can find a flaw faster than a team can fix it.",
+    "Anthropic launched OSS Scanner on October 8, 2026.",
+    "01 / 05"
+  ],
+  [
+    "Free security scans for open-source projects.",
+    "Opt-in scans use Anthropic models. Reports include an explanation and a suggested fix where available.",
+    "02 / 05"
+  ],
+  [
+    "The reports arrive without human review.",
+    "Anthropic acknowledges possible inaccuracies. Maintainers still need to verify findings.",
+    "03 / 05"
+  ],
+  [
+    "More findings can create more review work.",
+    "My takeaway: measure verified repairs and review effort, alongside vulnerability discovery.",
+    "04 / 05"
+  ],
+  [
+    "Would AI security reports help your team?",
+    "Or add to the backlog? Start with a workflow for verifying each finding.",
+    "05 / 05"
+  ]
+]
