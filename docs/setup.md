@@ -34,7 +34,7 @@ Use `/mcp` to authenticate according to the provider's current flow. Invoke `/li
 ## Hermes
 
 ```bash
-hermes skills install RohanPractus/linkedin-ai-news-carousel-agent/skills/linkedin-ai-news-carousel
+hermes skills install roronoa2003/linkedin-ai-news-carousel-agent/skills/linkedin-ai-news-carousel
 ```
 
 Review the installation scan; do not bypass a dangerous verdict. Confirm the skill appears in the installed list. Configure Publora using the current [Hermes MCP guide](https://hermes-agent.nousresearch.com/docs/user-guide/features/mcp); transport/auth support must be checked for your version. If remote OAuth is unsupported, use the documented API-key route through a supported secret store instead of copying browser tokens. Configure image generation explicitly. Read [skills](https://hermes-agent.nousresearch.com/docs/user-guide/features/skills) and [cron](https://hermes-agent.nousresearch.com/docs/user-guide/features/cron), then ask Hermes to create a task from run-prompt.md with your desired timezone. Ensure the gateway/scheduler is running and verify `hermes cron status`.

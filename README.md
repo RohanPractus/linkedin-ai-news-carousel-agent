@@ -20,7 +20,7 @@ Built by Rohan Iyer. This repository documents a working content and media prepa
 ## Quick start
 
 ```bash
-git clone https://github.com/RohanPractus/linkedin-ai-news-carousel-agent.git
+git clone https://github.com/roronoa2003/linkedin-ai-news-carousel-agent.git
 cd linkedin-ai-news-carousel-agent
 python3 -m venv .venv
 . .venv/bin/activate
