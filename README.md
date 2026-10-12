@@ -29,6 +29,8 @@ python -m unittest discover -s tests -v
 python scripts/verify_carousel.py examples/oss-scanner/manifest.json
 ```
 
+An optional GitHub Actions definition is supplied in `examples/ci-workflow.yml`; CI is not enabled automatically.
+
 Open [the example PDF](examples/oss-scanner/oss-scanner-linkedin.pdf). Its order is announcement → offering → limitation → implication → closing question. This October 8, 2026 example is historical test material. It **must not be reused as fresh news** on later dates.
 
 Install/read [the skill](skills/linkedin-ai-news-carousel/SKILL.md), copy `config.example.json` to `config.local.json`, and configure your own identity and authorization. Ask your agent:
