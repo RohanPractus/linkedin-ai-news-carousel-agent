@@ -25,3 +25,5 @@ Latest media policy: choose a theme-specific template each run; use either a 5â€
 Before any ImageGen call, read [the reference-anchored workflow](references/imagegen-consistency.md). Save a design lock, approve an actual master image, reference it for every slide, and record slide-level visual QA. Keep font, size per role, weight, spacing and template fixed across the entire post. Change design between stories only.
 
 Read references/practical-notes.md before writing: practical use cases and implementation ideas, accurate novelty classification, varied personal-note voice, then humanizer and factual review. Omit author names from captions and visuals.
+
+Scheduling: apply docs/random-schedule.md from the repository before drafting for a scheduled run. Persist randomly selected 2 or 3 weekly slots; enforce 48-hour actual publication spacing, maximum 3 weekly and 15 monthly. Daily wakeups are planning checks, not daily posting authorization.

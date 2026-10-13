@@ -88,3 +88,7 @@ Each post now uses a frozen design lock and an inspected master ImageGen slide a
 ## Practical personal notes
 
 Posts now connect fresh releases to a concrete project or an existing company workflow, with a small implementation sketch and a measurable pilot. They distinguish a new stack from an update and vary the first-person editorial structure before humanization. See [the writing contract](skills/linkedin-ai-news-carousel/references/practical-notes.md).
+
+## Random weekly cadence
+
+Select 2 or 3 posting days each week and persist the choice. Maintain a 48-hour minimum between actual publications across week boundaries, with a maximum of 3 posts weekly and 15 monthly. Fifteen is a ceiling; there is no fixed monthly total. A daily planning wake publishes only on selected eligible days. [Scheduling procedure](docs/random-schedule.md).

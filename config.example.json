@@ -11,11 +11,17 @@
   },
   "schedule": {
     "timezone": "America/Chicago",
-    "days": [
-      "Tuesday",
-      "Thursday"
+    "planner_trigger": "daily at 09:00",
+    "policy": "random_weekly",
+    "weekly_count_choices": [
+      2,
+      3
     ],
-    "time": "09:00"
+    "weekly_max": 3,
+    "minimum_publication_gap_hours": 48,
+    "monthly_max": 15,
+    "week_starts": "Monday",
+    "persist_weekly_plan": true
   },
   "publishing": {
     "mode": "draft",

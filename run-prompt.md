@@ -5,3 +5,5 @@ Latest media policy: choose a theme-specific template each run; use either a 5â€
 Read docs/discovery.md and skills/linkedin-ai-news-carousel/references/imagegen-consistency.md. Use live multi-source discovery, an explicit claim-to-source map, one frozen design lock and an accepted master image referenced by every slide. Save visual-review.json; visible typography or template drift blocks submission.
 
 Apply skills/linkedin-ai-news-carousel/references/practical-notes.md. Practical implementation and business benefits must be conditional and evidence grounded. Vary structure, humanize after writing, omit author names from captions and media.
+
+Scheduling: apply docs/random-schedule.md from the repository before drafting for a scheduled run. Persist randomly selected 2 or 3 weekly slots; enforce 48-hour actual publication spacing, maximum 3 weekly and 15 monthly. Daily wakeups are planning checks, not daily posting authorization.
