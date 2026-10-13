@@ -8,4 +8,4 @@ Apply skills/linkedin-ai-news-carousel/references/practical-notes.md. Practical 
 
 Scheduling: apply docs/random-schedule.md from the repository before drafting for a scheduled run. Persist randomly selected 2 or 3 weekly slots; enforce 48-hour actual publication spacing, maximum 3 weekly and 15 monthly. Daily wakeups are planning checks, not daily posting authorization.
 
-LATEST CADENCE OVERRIDE: use daily-discovery-policy.md (repository docs/ for portable installs). Daily fresh AI tool/innovation discovery and at most one post/day after first approval replace random weekly slots and the 48-hour gap. Provider quota still applies. Prior Janas/GitHub drafts are not first-post candidates.
+Current schedule: random 2 or 3 posting days per week, at least 48 hours apart, maximum 3/week and 15/month. Daily wakeups only check the plan. First fresh post requires user approval before any publication. Follow random-schedule.md (in repository docs/ for portable installs).

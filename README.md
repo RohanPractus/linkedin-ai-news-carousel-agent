@@ -93,6 +93,6 @@ Posts now connect fresh releases to a concrete project or an existing company wo
 
 Select 2 or 3 posting days each week and persist the choice. Maintain a 48-hour minimum between actual publications across week boundaries, with a maximum of 3 posts weekly and 15 monthly. Fifteen is a ceiling; there is no fixed monthly total. A daily planning wake publishes only on selected eligible days. [Scheduling procedure](docs/random-schedule.md).
 
-## Current cadence: daily discovery
+## Current editorial scope
 
-The latest direction supersedes the random weekly cadence: find a fresh AI tool or innovation daily and publish at most once a day after first-post approval. Provider quota remains binding; a 15-post monthly plan cannot support uninterrupted daily publishing. [Current policy](docs/daily-discovery-policy.md).
+[AI content categories](docs/content-categories.md): fresh models, benchmarks, agents, tools and practical business integration. Random 2–3 posts weekly remains the current cadence. First-post approval is required.

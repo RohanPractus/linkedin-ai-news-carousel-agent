@@ -1,7 +1,3 @@
-# Daily AI discovery and publication policy
+# Superseded policy
 
-Latest user direction supersedes the random 2–3/week cadence and 48-hour gap. Discover fresh AI tools and innovations daily at 09:00 America/Chicago. Target at most one original post per local calendar day after the first-post approval gate is satisfied. Until then prepare drafts only. The reference creator informs topic categories and editorial usefulness, not copied topics, text, personal stories or layouts.
-
-Cover new model releases, research results, benchmark releases, open-source libraries, developer tools and useful integrations. Select a newly verified substantive event, prefer 72 hours and never exceed 96 hours. Explain what changed, why it matters, who can use it, one plausible project or implementation, and an important limitation. Do not force the same structure on every post. Use practical-notes.md, humanization and visual quality checks. Review the ledger for event/version duplicates. Skip if no suitable fresh event passes.
-
-Before publishing, reconcile pending writes, verify first-post approval, confirm account identity and check live provider quota. The previously verified Publora Starter allowance is 15 publications/month; daily publication may exhaust it. Never purchase or upgrade automatically. If quota prevents publishing, preserve a draft and notify about the concrete limit; do not claim daily delivery is configured beyond the provider allowance. Recheck freshness before later use. No catch-up bursts or more than one publication per day. Actual publication follows research and review rather than a guaranteed exact minute.
+Daily publication is no longer requested. Follow [random weekly scheduling](random-schedule.md). Research happens when a selected run needs a fresh post.
