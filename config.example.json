@@ -12,16 +12,10 @@
   "schedule": {
     "timezone": "America/Chicago",
     "planner_trigger": "daily at 09:00",
-    "policy": "random_weekly",
-    "weekly_count_choices": [
-      2,
-      3
-    ],
-    "weekly_max": 3,
-    "minimum_publication_gap_hours": 48,
-    "monthly_max": 15,
-    "week_starts": "Monday",
-    "persist_weekly_plan": true
+    "policy": "daily_fresh_discovery",
+    "maximum_posts_per_day": 1,
+    "respect_provider_quota": true,
+    "first_post_approval_required": true
   },
   "publishing": {
     "mode": "draft",

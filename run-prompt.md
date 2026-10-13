@@ -7,3 +7,5 @@ Read docs/discovery.md and skills/linkedin-ai-news-carousel/references/imagegen-
 Apply skills/linkedin-ai-news-carousel/references/practical-notes.md. Practical implementation and business benefits must be conditional and evidence grounded. Vary structure, humanize after writing, omit author names from captions and media.
 
 Scheduling: apply docs/random-schedule.md from the repository before drafting for a scheduled run. Persist randomly selected 2 or 3 weekly slots; enforce 48-hour actual publication spacing, maximum 3 weekly and 15 monthly. Daily wakeups are planning checks, not daily posting authorization.
+
+LATEST CADENCE OVERRIDE: use daily-discovery-policy.md (repository docs/ for portable installs). Daily fresh AI tool/innovation discovery and at most one post/day after first approval replace random weekly slots and the 48-hour gap. Provider quota still applies. Prior Janas/GitHub drafts are not first-post candidates.

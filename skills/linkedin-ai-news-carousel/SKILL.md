@@ -27,3 +27,5 @@ Before any ImageGen call, read [the reference-anchored workflow](references/imag
 Read references/practical-notes.md before writing: practical use cases and implementation ideas, accurate novelty classification, varied personal-note voice, then humanizer and factual review. Omit author names from captions and visuals.
 
 Scheduling: apply docs/random-schedule.md from the repository before drafting for a scheduled run. Persist randomly selected 2 or 3 weekly slots; enforce 48-hour actual publication spacing, maximum 3 weekly and 15 monthly. Daily wakeups are planning checks, not daily posting authorization.
+
+LATEST CADENCE OVERRIDE: use daily-discovery-policy.md (repository docs/ for portable installs). Daily fresh AI tool/innovation discovery and at most one post/day after first approval replace random weekly slots and the 48-hour gap. Provider quota still applies. Prior Janas/GitHub drafts are not first-post candidates.
