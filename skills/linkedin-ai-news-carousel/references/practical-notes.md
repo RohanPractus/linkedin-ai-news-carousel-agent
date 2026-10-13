@@ -1,0 +1,13 @@
+# Practical AI reading notes
+
+Write as a personal note interpreting a freshly verified AI development. The reader should learn what they could build or improve, not just what launched.
+
+- Establish the precise new change. Explicitly distinguish a first introduction from a version update, platform port, integration or expanded availability. Only claim first-ever novelty with evidence; never infer it from a new article date.
+- Choose one concrete use case and intended user. Explain a plausible small implementation: inputs, components, how it connects to an existing workflow, and what a pilot would measure. Mention setup constraints that materially affect feasibility. Do not present proposed integrations as built-in features.
+- For new stacks, suggest one or two project types enabled by documented capabilities. For company applications, explain which existing step could improve and how to compare a pilot with the current baseline: quality, latency, cost, manual effort or reliability. Potential benefits are hypotheses; never invent ROI, adoption, savings or test results.
+- Use first-person interpretation naturally: “What interests me here…”, “I'd try…”, or an implementation question. Do not insert the author's name in the caption, image text or footer. Do not invent reading history, testing, employment experiences or personal conversations. A reading-note voice expresses a reaction to the verified source, not a fabricated diary entry.
+- Vary openings, structure, rhythm and endings across posts. Consult the previous five captions when available. Choose among a project sketch, implementation walkthrough, observation, tradeoff, specific question or short analysis as the story warrants. Avoid a fixed hook → three bullets → “My takeaway” → generic question pattern. Do not force a question or first-person phrase into every post.
+- Writer produces a grounded draft and claim map. Humanizer then improves naturalness and checks repetition against recent posts. Reviewer verifies that practical ideas remain conditional and that facts, novelty, dates and caveats survived. A style pass cannot create experiences or technical capabilities.
+- Visuals advance the practical story: what changed, what we might build, how to evaluate it. Use neutral footer “AI field notes” plus numbering and source/date where useful. Keep one design lock per post. Names belong only in account metadata unless the user later requests attribution.
+
+Record the chosen use case, proposed integration, baseline metric, novelty classification and writing structure with each draft. Not every post needs every detail: prefer one usable idea with adequate caveats over a generic list of industries.

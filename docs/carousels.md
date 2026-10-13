@@ -1,6 +1,6 @@
 # Adaptive ImageGen media format
 
-All visuals are generated with the configured image tool. Choose the visual template for the actual fresh AI news theme, rather than fixing one navy layout forever. Preserve readability and Rohan attribution while varying palette, layout, illustration treatment and information hierarchy.
+All visuals are generated with the configured image tool. Choose the visual template for the actual fresh AI news theme, rather than fixing one navy layout forever. Preserve readability and neutral AI field notes attribution while varying palette, layout, illustration treatment and information hierarchy.
 
 ## Format selection
 

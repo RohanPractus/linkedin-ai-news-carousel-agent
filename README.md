@@ -84,3 +84,7 @@ Latest media policy: choose a theme-specific template each run; use either a 5â€
 Each post now uses a frozen design lock and an inspected master ImageGen slide as the reference for every remaining slide. Font family, role-based type sizes, weight, spacing, palette and layout stay consistent inside that post; the next story gets a theme suited to its subject. See [the full ImageGen procedure and repository references](skills/linkedin-ai-news-carousel/references/imagegen-consistency.md) and [design-lock example](examples/design-lock.json). A visual review is required because generative images cannot guarantee exact font metrics.
 
 [Discovery](docs/discovery.md) uses current community leads, original release evidence, event/version deduplication and claim-level sourcing. Every post must still pass the 96-hour gate after generation. These are orchestration requirements; unattended image quality and live publishing have not been established by configuration checks alone.
+
+## Practical personal notes
+
+Posts now connect fresh releases to a concrete project or an existing company workflow, with a small implementation sketch and a measurable pilot. They distinguish a new stack from an update and vary the first-person editorial structure before humanization. See [the writing contract](skills/linkedin-ai-news-carousel/references/practical-notes.md).

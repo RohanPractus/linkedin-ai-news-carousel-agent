@@ -3,3 +3,5 @@ Read AGENTS.md, skills/linkedin-ai-news-carousel/SKILL.md and config.local.json.
 Latest media policy: choose a theme-specific template each run; use either a 5–7-page PDF or 3–5 images, selected by story suitability and format history. Images can display as a grid. Verify manifest/visible numbering and attachment order. Read docs/carousels.md for adaptive templates, relevant mentions/hashtags, comment-review boundaries and controller-security research lens.
 
 Read docs/discovery.md and skills/linkedin-ai-news-carousel/references/imagegen-consistency.md. Use live multi-source discovery, an explicit claim-to-source map, one frozen design lock and an accepted master image referenced by every slide. Save visual-review.json; visible typography or template drift blocks submission.
+
+Apply skills/linkedin-ai-news-carousel/references/practical-notes.md. Practical implementation and business benefits must be conditional and evidence grounded. Vary structure, humanize after writing, omit author names from captions and media.
